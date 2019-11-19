@@ -9,7 +9,7 @@ Umar Khan's take on the Flatiron Data Science Track Module 1 project with the Ki
 ## King County Shapefile
   This is the shapefile for King county that is used in the Geopandas visualiazations. 
   
- ## Pip List file
+ ## Requirements.txt file
   Lists the packages and libraries relied on by the code in the notebook. 
   
  ## plot_images folder
