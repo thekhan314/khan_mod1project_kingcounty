@@ -1,4 +1,4 @@
-# khan_mod1project_kingcounty
+ khan_mod1project_kingcounty
 Umar Khan's take on the Flatiron Data Science Track Module 1 project with the King County home price dataset
 
 
@@ -12,6 +12,11 @@ The notebook has a navigable table of contents. You should be able to see it if 
 
 https://thekhan314.github.io/helpful_data_cleaning_and_linear_regression_functions
 
+## Presentation File
+
+presentation.pdf file has the slides from the presentation. Video can be veiwed at
+
+https://youtu.be/7k4dBTaUNlY
       
 ## King County Shapefile
 
