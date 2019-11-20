@@ -15,7 +15,9 @@ https://thekhan314.github.io/helpful_data_cleaning_and_linear_regression_functio
       
 ## King County Shapefile
 
-  This is the shapefile for King county that is used in the Geopandas visualiazations. 
+  This is the shapefile for King county that is used in the Geopandas visualiazations. Source:
+  
+  https://gis-kingcounty.opendata.arcgis.com/datasets/zipcodes-for-king-county-and-surrounding-area-shorelines-zipcode-shore-area/data
   
   
 ## Requirements.txt file
@@ -32,7 +34,6 @@ Contains saved imaged of the visualizations generated in the notebook.
 
 A pickled file of the final trained model. 
 
-## Blog post
 
 
  
