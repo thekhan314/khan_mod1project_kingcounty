@@ -32,7 +32,6 @@ Contains saved imaged of the visualizations generated in the notebook.
 
 A pickled file of the final trained model. 
 
-## Blog post
 
 
  
